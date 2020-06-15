@@ -1,9 +1,10 @@
 import React from 'react';
+import {RipleButton} from './components/RipleButton';
 
 function App() {
 		return (
 			<div>
-					123
+					<RipleButton/>
 			</div>
 		);
 }
